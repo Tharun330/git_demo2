@@ -1,1 +1,1 @@
-# Created for purpose of learing
+# Created for purpose of learning
